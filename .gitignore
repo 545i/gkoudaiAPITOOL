@@ -1,0 +1,11 @@
+# 執行階段產物，不進版控
+xag_quote.config.json
+xag_quote.symbols.json
+xag_latest.json
+xag_latest.json.tmp
+*.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/

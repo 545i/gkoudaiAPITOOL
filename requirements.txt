@@ -1,0 +1,2 @@
+# 監聽推送需要；沒裝的話工具會自動退回 REST 輪巡
+python-socketio[client]>=5.11
